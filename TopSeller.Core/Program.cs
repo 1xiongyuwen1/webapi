@@ -55,6 +55,7 @@ namespace TopSeller.Core
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseUrls("https://*:5888")
                 .UseStartup<Startup>();
     }
 }

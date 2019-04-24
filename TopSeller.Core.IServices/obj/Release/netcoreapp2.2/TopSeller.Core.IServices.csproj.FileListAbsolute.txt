@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.IServices.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.IServices.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.IServices.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.Entity.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.Entity.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\bin\Release\netcoreapp2.2\TopSeller.Core.Common.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IServices\obj\Release\netcoreapp2.2\TopSeller.Core.IServices.pdb

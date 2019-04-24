@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\bin\Release\netcoreapp2.2\TopSeller.Core.Common.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\bin\Release\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\bin\Release\netcoreapp2.2\TopSeller.Core.Common.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Common\obj\Release\netcoreapp2.2\TopSeller.Core.Common.pdb
