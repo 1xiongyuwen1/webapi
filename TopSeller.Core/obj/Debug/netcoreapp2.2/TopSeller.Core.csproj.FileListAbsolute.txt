@@ -28,3 +28,4 @@ C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Debug\netc
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Debug\netcoreapp2.2\TopSeller.Core.xml
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.xml
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Debug\netcoreapp2.2\Dockerfile

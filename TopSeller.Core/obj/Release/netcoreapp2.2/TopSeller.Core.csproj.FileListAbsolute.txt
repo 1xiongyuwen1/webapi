@@ -26,3 +26,4 @@ C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\obj\Release\ne
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\obj\Release\netcoreapp2.2\TopSeller.Core.csproj.CopyComplete
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\obj\Release\netcoreapp2.2\TopSeller.Core.dll
 C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\obj\Release\netcoreapp2.2\TopSeller.Core.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core\bin\Release\netcoreapp2.2\Dockerfile
