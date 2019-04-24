@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\obj\Debug\netcoreapp2.2\TopSeller.Core.Entity.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Entity\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.xml

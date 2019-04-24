@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.IRepository.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.IRepository.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.IRepository.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\obj\Debug\netcoreapp2.2\TopSeller.Core.IRepository.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.IRepository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.xml

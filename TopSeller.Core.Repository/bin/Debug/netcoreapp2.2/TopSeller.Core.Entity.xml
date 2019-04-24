@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TopSeller.Core.Entity</name>
+    </assembly>
+    <members>
+        <member name="T:TopSeller.Core.Entity.Love">
+            <summary>
+            这是爱
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Love.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Love.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Love.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MessageModel`1.success">
+            <summary>
+            操作是否成功
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MessageModel`1.msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MessageModel`1.response">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.MenuModule">
+            <summary>
+            表menu_module的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.ParentId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.LinkUrl">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.Icon">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.Enable">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.CreateId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.CreateUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.MenuModule.CreateDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.Permission">
+            <summary>
+            表permission的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.UrlPath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.UrlName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.IsButton">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.Pid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.ModuleId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.OrderSort">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.Enable">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.CreateId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Permission.CreateUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.Role">
+            <summary>
+            表role的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.Description">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.OrderSort">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.Enabled">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.CreateId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.CreateUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.CreateDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.Role.ModifyDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.RoleModulePermission">
+            <summary>
+            表role_module_permission的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.RoleId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.ModuleId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.PermissionId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.CreateId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.CreateUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.CreateDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.ModifyDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.RoleModulePermission.ModifyUserId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.UserInfo">
+            <summary>
+            表user_info的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.UserId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.UserName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.Password">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.IsLock">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.CreateDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserInfo.ModifyDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.Models.UserRole">
+            <summary>
+            表user_role的实体类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserRole.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserRole.RoleId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserRole.UserId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserRole.CreateId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.Models.UserRole.CreateUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MyContext.ConnectionString">
+            <summary>
+            连接字符串 
+            Blog.Core
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MyContext.DbType">
+            <summary>
+            数据库类型 
+            Blog.Core 
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MyContext.Db">
+            <summary>
+            数据连接对象 
+            Blog.Core 
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.MyContext.Context">
+            <summary>
+            数据库上下文实例（自动关闭连接）
+            Blog.Core 
+            </summary>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.#ctor">
+            <summary>
+            功能描述:构造函数
+            作　　者:Blog.Core
+            </summary>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetEntityDB``1">
+            <summary>
+            功能描述:获取数据库处理对象
+            作　　者:Blog.Core
+            </summary>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetEntityDB``1(SqlSugar.SqlSugarClient)">
+            <summary>
+            功能描述:获取数据库处理对象
+            作　　者:Blog.Core
+            </summary>
+            <param name="db">db</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateClassFileByDBTalbe(System.String)">
+            <summary>
+            功能描述:根据数据库表生产实体类
+            作　　者:Blog.Core
+            </summary>       
+            <param name="strPath">实体类存放路径</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateClassFileByDBTalbe(System.String,System.String)">
+            <summary>
+            功能描述:根据数据库表生产实体类
+            作　　者:Blog.Core
+            </summary>
+            <param name="strPath">实体类存放路径</param>
+            <param name="strNameSpace">命名空间</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateClassFileByDBTalbe(System.String,System.String,System.String[])">
+            <summary>
+            功能描述:根据数据库表生产实体类
+            作　　者:Blog.Core
+            </summary>
+            <param name="strPath">实体类存放路径</param>
+            <param name="strNameSpace">命名空间</param>
+            <param name="lstTableNames">生产指定的表</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateClassFileByDBTalbe(System.String,System.String,System.String[],System.String,System.Boolean)">
+            <summary>
+            功能描述:根据数据库表生产实体类
+            作　　者:Blog.Core
+            </summary>
+            <param name="strPath">实体类存放路径</param>
+            <param name="strNameSpace">命名空间</param>
+            <param name="lstTableNames">生产指定的表</param>
+            <param name="strInterface">实现接口</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateTableByEntity``1(System.Boolean,``0[])">
+            <summary>
+            功能描述:根据实体类生成数据库表
+            作　　者:Blog.Core
+            </summary>
+            <param name="blnBackupTable">是否备份表</param>
+            <param name="lstEntitys">指定的实体</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.CreateTableByEntity(System.Boolean,System.Type[])">
+            <summary>
+            功能描述:根据实体类生成数据库表
+            作　　者:Blog.Core
+            </summary>
+            <param name="blnBackupTable">是否备份表</param>
+            <param name="lstEntitys">指定的实体</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetDbContext">
+            <summary>
+            功能描述:获得一个DbContext
+            作　　者:Blog.Core
+            </summary>
+            <param name="blnIsAutoCloseConnection">是否自动关闭连接（如果为false，则使用接受时需要手动关闭Db）</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.Init(System.String,SqlSugar.DbType)">
+            <summary>
+            功能描述:设置初始化参数
+            作　　者:Blog.Core
+            </summary>
+            <param name="strConnectionString">连接字符串</param>
+            <param name="enmDbType">数据库类型</param>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetConnectionConfig(System.Boolean,System.Boolean)">
+            <summary>
+            功能描述:创建一个链接配置
+            作　　者:Blog.Core
+            </summary>
+            <param name="blnIsAutoCloseConnection">是否自动关闭连接</param>
+            <param name="blnIsShardSameThread">是否夸类事务</param>
+            <returns>ConnectionConfig</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetCustomDB(SqlSugar.ConnectionConfig)">
+            <summary>
+            功能描述:获取一个自定义的DB
+            作　　者:Blog.Core
+            </summary>
+            <param name="config">config</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetCustomEntityDB``1(SqlSugar.SqlSugarClient)">
+            <summary>
+            功能描述:获取一个自定义的数据库处理对象
+            作　　者:Blog.Core
+            </summary>
+            <param name="sugarClient">sugarClient</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.MyContext.GetCustomEntityDB``1(SqlSugar.ConnectionConfig)">
+            <summary>
+            功能描述:获取一个自定义的数据库处理对象
+            作　　者:Blog.Core
+            </summary>
+            <param name="config">config</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="T:TopSeller.Core.Entity.PageModel`1">
+            <summary>
+            通用分页信息类
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.PageModel`1.page">
+            <summary>
+            当前页数
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.PageModel`1.pageCount">
+            <summary>
+            总页数
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.PageModel`1.dataCount">
+            <summary>
+            数据总数
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.PageModel`1.data">
+            <summary>
+            返回数据
+            </summary>
+        </member>
+        <member name="F:TopSeller.Core.Entity.ResponseEnum.NoPermissions">
+            <summary>
+            无权限
+            </summary>
+        </member>
+        <member name="F:TopSeller.Core.Entity.ResponseEnum.NoFound">
+            <summary>
+            找不到指定资源
+            </summary>
+        </member>
+        <member name="F:TopSeller.Core.Entity.ResponseEnum.ServerError">
+            <summary>
+            找不到指定资源
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.RootEntity.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.TableModel`1">
+            <summary>
+            表格数据，支持分页
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.TableModel`1.Code">
+            <summary>
+            返回编码
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.TableModel`1.Msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.TableModel`1.Count">
+            <summary>
+            记录总数
+            </summary>
+        </member>
+        <member name="P:TopSeller.Core.Entity.TableModel`1.Data">
+            <summary>
+            返回数据集
+            </summary>
+        </member>
+        <member name="T:TopSeller.Core.Entity.UtilConvert">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToInt(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToInt(System.Object,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToMoney(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToMoney(System.Object,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToString(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToString(System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToDecimal(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToDecimal(System.Object,System.Decimal)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToDate(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToDate(System.Object,System.DateTime)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TopSeller.Core.Entity.UtilConvert.ObjToBool(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

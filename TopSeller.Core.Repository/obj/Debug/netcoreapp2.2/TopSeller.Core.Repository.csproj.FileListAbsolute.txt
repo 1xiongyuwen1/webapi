@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Repository.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Repository.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Repository.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.IRepository.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Common.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.IRepository.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\obj\Debug\netcoreapp2.2\TopSeller.Core.Repository.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Repository\bin\Debug\netcoreapp2.2\TopSeller.Core.Entity.xml

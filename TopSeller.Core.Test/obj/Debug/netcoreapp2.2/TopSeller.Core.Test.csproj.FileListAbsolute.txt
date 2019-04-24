@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\bin\Debug\netcoreapp2.2\TopSeller.Core.Test.deps.json
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\bin\Debug\netcoreapp2.2\TopSeller.Core.Test.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\bin\Debug\netcoreapp2.2\TopSeller.Core.Test.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.dll
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.pdb
+C:\Users\Administrator\source\repos\TopSeller.Core\TopSeller.Core.Test\obj\Debug\netcoreapp2.2\TopSeller.Core.Test.csprojAssemblyReference.cache
